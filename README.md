@@ -10,7 +10,7 @@ dotnet build
 dotnet run
 ```
 
-From the API folder then access swagger/index.html to test the endpoints.
+From the API folder then access ```https://localhost:7196/swagger/index.html``` to test the endpoints.
 
 To execute the integration test run:
 
