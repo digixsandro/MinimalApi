@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e0350e2-70c1-4acc-b98a-b5e460b89379": {
+      "ProjectGuid": "2e0350e2-70c1-4acc-b98a-b5e460b89379",
+      "DisplayName": "Test",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a8aa5d59-82a0-4420-850f-f3294e1cbd4f": {
+      "ProjectGuid": "a8aa5d59-82a0-4420-850f-f3294e1cbd4f",
+      "DisplayName": "Tests.Api",
+      "ColorIndex": 1
+    },
+    "8ecd9ecd-6670-4398-b27f-e134f55ef057": {
+      "ProjectGuid": "8ecd9ecd-6670-4398-b27f-e134f55ef057",
+      "DisplayName": "Api.Tests",
+      "ColorIndex": 2
+    },
+    "2c2e2447-f29f-481f-a888-e86e57f2f645": {
+      "ProjectGuid": "2c2e2447-f29f-481f-a888-e86e57f2f645",
+      "DisplayName": "Api.Tests",
+      "ColorIndex": 3
+    },
+    "a791a007-29fc-43f8-a847-e1784ff8f42d": {
+      "ProjectGuid": "a791a007-29fc-43f8-a847-e1784ff8f42d",
+      "DisplayName": "TestProject",
+      "ColorIndex": 4
+    },
+    "613e6bc4-f29f-43c0-b36e-9208991b9c44": {
+      "ProjectGuid": "613e6bc4-f29f-43c0-b36e-9208991b9c44",
+      "DisplayName": "TestProject",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
