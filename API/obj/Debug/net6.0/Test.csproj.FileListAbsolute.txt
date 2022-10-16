@@ -416,8 +416,8 @@ C:\projetos\Estudos\Test\bin\Debug\net6.0\Tests\TestProject\obj\Debug\net6.0\Mvc
 C:\projetos\Estudos\Test\bin\Debug\net6.0\ref\Test.dll
 C:\projetos\Estudos\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
 C:\projetos\Estudos\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
-C:\projetos\Estudos\Test\API\bin\Debug\net6.0\testhost.exe
 C:\projetos\Estudos\Test\API\bin\Debug\net6.0\testhost.dll
+C:\projetos\Estudos\Test\API\bin\Debug\net6.0\testhost.exe
 C:\projetos\Estudos\Test\API\bin\Debug\net6.0\appsettings.Development.json
 C:\projetos\Estudos\Test\API\bin\Debug\net6.0\appsettings.json
 C:\projetos\Estudos\Test\API\bin\Debug\net6.0\MvcTestingAppManifest.json
@@ -819,7 +819,7 @@ C:\projetos\Estudos\Test\API\obj\Debug\net6.0\staticwebassets.development.json
 C:\projetos\Estudos\Test\API\obj\Debug\net6.0\scopedcss\bundle\Test.styles.css
 C:\projetos\Estudos\Test\API\obj\Debug\net6.0\Test.csproj.CopyComplete
 C:\projetos\Estudos\Test\API\obj\Debug\net6.0\Test.dll
-C:\projetos\Estudos\Test\API\obj\Debug\net6.0\ref\Test.dll
+C:\projetos\Estudos\Test\API\obj\Debug\net6.0\refint\Test.dll
 C:\projetos\Estudos\Test\API\obj\Debug\net6.0\Test.pdb
 C:\projetos\Estudos\Test\API\obj\Debug\net6.0\Test.genruntimeconfig.cache
-C:\projetos\Estudos\Test\API\obj\Debug\net6.0\refint\Test.dll
+C:\projetos\Estudos\Test\API\obj\Debug\net6.0\ref\Test.dll
