@@ -6,6 +6,14 @@ Description of each Part.
 To run the project use:
 
 ```
+docker-compose build
+docker-compose up
+```
+From the API Folder, it will run and you can access the swagger interface with this URL: ```https://localhost:8000/swagger/index.html```
+
+**OR**
+
+```
 dotnet build
 dotnet run
 ```
